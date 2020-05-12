@@ -18,7 +18,7 @@ var UIController = (function () {
 
 var controller = (function (budgetCtrl, UICtrl) {
   var clickEvent = function () {
-    var a = UICtrl.getType();
+    var ab = UICtrl.getType();
 
     console.log(a);
   };
